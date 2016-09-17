@@ -1,2 +1,2 @@
 # Generic-Game-1
-1hallo
+This game is a 2D RPG that does random stuff.
